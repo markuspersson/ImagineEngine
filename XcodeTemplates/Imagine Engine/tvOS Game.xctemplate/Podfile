@@ -1,0 +1,7 @@
+platform :tvos, '10.0'
+
+target '___PACKAGENAME___' do
+    use_frameworks!
+    pod 'ImagineEngine'
+end
+

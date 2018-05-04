@@ -20,6 +20,7 @@ Done! 👌
 
 - Open Xcode and select `New > Project...`.
 - Under the "iOS" tab, scroll down to the "Imagine Engine" section and select "iOS Game".
+    - _For tvOS; Select the "tvOS" tab, scroll down to the "Imagine Engine" section and select "tvOS Game"_
 - Enter a name for your game and make sure to select "Swift" as language.
 - Xcode will now create a project for you. Close the project and go to the project's folder on the command line.
 - Run `pod install`. This will install Imagine Engine through [CocoaPods](https://cocoapods.org).
